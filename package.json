@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-table": "^8.17.3",
+    "react-hook-form": "^7.52.0",
+    "react-router-dom": "^6.23.1",
+    "yup": "^1.4.0"
+  }
+}

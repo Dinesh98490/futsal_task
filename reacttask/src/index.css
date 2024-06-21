@@ -1,0 +1,31 @@
+
+body{
+  height: 100vh;margin: 0px;
+}
+
+#root{
+  height: 100%;
+}
+
+#admin-section {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap:1rem
+}
+
+#admin-section div:first-child{
+  background: red;
+  height: 2rem;
+}
+
+#admin-section main{
+  display: flex;
+  height: 100%;
+}
+
+#admin-section main aside{
+  height: 100%;
+  flex-basis: 200px;
+  background: green;
+}
